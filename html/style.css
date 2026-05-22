@@ -55,3 +55,12 @@ footer {
     color: #a0a0b0;
     font-size: 14px;
 }
+
+a {
+    color: #4a90d9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
